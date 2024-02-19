@@ -1,0 +1,33 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 50px;
+    background-color: black;
+    color: aliceblue;
+    font-size:20px;
+
+}
+#converter {
+    max-width: 500px;
+    margin: 0 auto;
+}
+button{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px 10px 20px 10px;
+    border-radius: 10px;
+    margin-left: 0%;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    box-shadow:0 0 10px rgb(53, 218, 226);
+}
+input{
+    display: flex;
+    padding: 10px 5px 10px 5px;
+    border-radius: 20px;
+}
+select{
+    display: flex;
+    padding: 10px 5px 10px 5px;
+    border-radius: 20px;
+}
